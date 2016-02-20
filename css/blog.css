@@ -27,8 +27,11 @@ a:hover
 
 		/* Terminan propiedades de header*/
 
+section.Blog /*section.Blog es la única sección central*/
 
-
+	{
+		background-color: rgb(244, 244, 244);
+	}
 
 
 
